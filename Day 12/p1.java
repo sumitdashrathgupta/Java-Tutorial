@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+class p1{
+	public static void main(String[] args)
+	{
+	int a=99;
+	if(a%3 == 0)
+	{
+	System.out.println("Even number "+a);
+	}
+	else
+	{
+	System.out.println("Odd Number "+a);
+	}
+	}
+}
+=======
 /*class p1
 {
 	public static void main(String[] arg)
@@ -28,3 +44,4 @@
 	 System.out.println(b);
     }
 }*/
+>>>>>>> 369332741f51aa846c460ac08e49c3511d85959d
