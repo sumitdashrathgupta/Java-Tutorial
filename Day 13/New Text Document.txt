@@ -1,0 +1,8 @@
+byte     1 byte
+short    2 byte
+int 	 4 byte
+long	 8 byte
+float 	 4 byte
+bouble	 8 byte
+char	 2 byte
+boolean  1 bit
