@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class p2{
 	static int x=15;
 	public static void test()
@@ -17,4 +18,13 @@ class p2{
 	static{
 	System.out.println(x);
 	}
+=======
+class p2
+{
+	public static void main(String[] args)
+	{
+	
+	}
+
+>>>>>>> ee15dbee84360f3fe884f35d44f120db80731098
 }
